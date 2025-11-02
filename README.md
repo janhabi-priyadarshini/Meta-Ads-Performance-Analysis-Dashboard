@@ -1,6 +1,6 @@
 # 📊 Meta Ad Performance Dashboard  
 
-**A Power BI dashboard that analyzes paid ad campaigns on Facebook & Instagram — from impressions to purchases — using Excel for data prep, SQL for modeling, and Power BI for interactive visualization.**
+**A Power BI dashboard that analyzes paid ad campaigns on Facebook & Instagram — from impressions to purchases — using Excel for data prep, SQL for modeling, DAX for measures, and Power BI for interactive visualization.**
 
 ---
 
@@ -11,16 +11,23 @@ It converts raw event-level data into business-ready KPIs, provides **demographi
 ---
 
 ## 🛠️ Tech Stack
-- **Power BI** – Dashboard creation and data visualization  
-- **SQL** – Data modeling, table joins, KPI calculations  
-- **Excel** – Data cleaning and preprocessing  
-- **Documentation** – 4 detailed PDF files (BRD, Domain Knowledge, Dashboard Insights, and Interview Explanation)  
+- **Power BI** – Dashboard creation and interactive visualization  
+- **DAX (Data Analysis Expressions)** – Used to create custom KPIs such as CTR%, Engagement Rate%, Conversion Rate%, and Purchase Rate%  
+- **SQL** – For data modeling, joins, KPI validation, and data quality checks  
+- **Excel** – Used for raw data cleaning, preprocessing, and transformation before Power BI import  
+- **Data Modeling** – Implemented **Star Schema** (Fact table + Dimension tables) for optimized performance  
+- **Documentation Tools** – Used for creating BRD, Domain Knowledge, Dashboard Insights, and Interview Explanation PDFs  
 
 ---
 
 ## 📂 Data Source
-The dataset is a **Meta Ads performance dataset** modeled on Facebook/Instagram’s ad event structure.  
-It follows a **Star Schema**:
+The dataset used in this project is sourced from **Kaggle**:
+
+> 📊 **Dataset:** [Social Media Advertisement Performance](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance)  
+> 👤 **Author:** [Alperen Myung](https://www.kaggle.com/alperenmyung)  
+> 🗂️ **Platform:** Kaggle  
+> 🧱 **Structure:** The dataset follows a **Star Schema** with four tables — `ad_events`, `ads`, `campaigns`, and `users`.  
+> 🧩 **Description:** This dataset represents simulated performance data for paid social media ads, covering impressions, clicks, purchases, demographics, and budget details. It is ideal for marketing analytics, KPI tracking, and dashboard visualization projects.  
 
 | Table | Type | Description |
 |--------|------|-------------|
@@ -28,8 +35,6 @@ It follows a **Star Schema**:
 | `ads` | Dimension | Ad-level details (ad_type, platform, target_gender, target_age_group) |
 | `campaigns` | Dimension | Campaign-level details (budget, start/end date, duration) |
 | `users` | Dimension | User demographics (age, gender, country, interests) |
-
-> 📌 *Dataset sourced from a Meta Ads simulation dataset used for educational analytics purposes (Data Tutorials Project)*
 
 ---
 
