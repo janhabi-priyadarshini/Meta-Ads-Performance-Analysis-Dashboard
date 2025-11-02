@@ -170,4 +170,4 @@ Display overall performance metrics:
 Below is a visual preview of the **Meta Ad Performance Dashboard** built in Power BI.  
 It highlights all the key KPIs and insights derived from Facebook and Instagram ad campaigns.
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/janhabi-priyadarshini/Meta-Ads-Performance-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
