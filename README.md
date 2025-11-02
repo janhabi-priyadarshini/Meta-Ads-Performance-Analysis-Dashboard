@@ -193,7 +193,7 @@ Below are the visual previews of both **Facebook** and **Instagram** ad performa
 Together, they provide a complete view of Meta’s ad ecosystem — tracking KPIs, engagement, and conversions separately for each platform.
 
 ### 📘 Facebook Dashboard
-![Facebook Dashboard Screenshot](https://github.com/janhabi-priyadarshini/Meta-Ads-Performance-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+![Facebook Dashboard Screenshot](https://github.com/janhabi-priyadarshini/Meta-Ads-Performance-Analysis-Dashboard/blob/main/Snapshot%20of%20Facebook%20Dashboard.png)
 
 ---
 
