@@ -57,7 +57,7 @@ To build an **interactive performance tracking dashboard** that:
 ### 📊 Walkthrough of Key Visuals
 
 #### 1. **Top KPI Summary Tiles**
-Display overall performance metrics:
+**Facebook Dashboard:**
 - **Impressions:** 216K  
 - **Clicks:** 25.4K  
 - **CTR:** 11.76% *(above industry average)*  
@@ -68,78 +68,100 @@ Display overall performance metrics:
 - **Total Budget:** 2.5M  
 - **Average Budget/Campaign:** 50.7K  
 
-> 💡 *These KPIs provide a snapshot of campaign efficiency, showing strong awareness but weak lower-funnel conversions.*
+**Instagram Dashboard:**
+- **Impressions:** 123.8K  
+- **Clicks:** 14.7K  
+- **CTR:** 11.86%  
+- **Engagement Rate:** 13.60%  
+- **Purchases:** 708  
+- **Conversion Rate:** 4.82%  
+- **Purchase Rate:** 0.57%  
+- **Total Budget:** 2.5M  
+- **Average Budget/Campaign:** 50.7K  
+
+> 💡 *These KPIs show both platforms deliver strong engagement, but Facebook performs slightly better in conversions.*
 
 ---
 
 #### 2. **Gender-wise Engagement (Donut Chart)**
+**Facebook:**  
 - Female: **43%** engagement  
 - Male: **22%**  
 - Others: **35%**  
-> 👉 Females engage significantly more — suggesting ad creatives resonate better with female audiences.
+
+**Instagram:**  
+- Female: **37%** engagement  
+- Male: **26%**  
+- Others: **37%**  
+
+> 👉 On both platforms, female users engage more, but Instagram shows a slightly more balanced gender distribution.
 
 ---
 
 #### 3. **Age Group Performance (Bar Chart)**
-- Highest engagement: **18–30 age group**  
-- Sharp decline after 35+  
-> 🎯 Focus campaigns on young adults for higher ROI.
+- Highest engagement: **18–30 age group** for both platforms  
+- Engagement decreases steadily beyond age 35  
+> 🎯 Focus on younger audiences for both Facebook and Instagram campaigns.
 
 ---
 
 #### 4. **Geographic Distribution (Map View)**
-- **Top Engaged Countries:** India, US, Brazil, Germany, UK  
-> 🌎 Target India & Brazil for engagement volume, Germany & UK for premium conversions.
+**Facebook:** India, US, Brazil, Germany, UK  
+**Instagram:** India, US, Indonesia, France, Canada  
+> 🌎 Target India and US for scale; consider regional strategy differences across Europe and Asia.
 
 ---
 
 #### 5. **Weekly Trend (Stacked Column Chart)**
-- Visualizes weekly ad engagement split by **Ad Type**.  
-> 📆 Shows consistent weekly engagement and identifies stable pacing.
+Shows weekly engagement split by **Ad Type** across both platforms.  
+> 📆 Engagement remains steady through the month with peak weeks aligning to campaign launches.
 
 ---
 
 #### 6. **Hourly Engagement Trend (Area Chart)**
-- Peak hours: **3 PM – 8 PM**  
+- Peak hours: **3 PM – 8 PM** for both platforms  
 - Low activity: **0–5 AM**  
-> ⏰ Schedule ad delivery in afternoons/evenings for maximum results.
+> ⏰ Optimal posting time for ad delivery is afternoon to evening for maximum impressions.
 
 ---
 
 #### 7. **Calendar Heatmap (Monthly View)**
-- Highlights dates with high activity (e.g., **19–21, 25–27**)  
-> 📅 Identifies spikes caused by campaign launches or promotions.
+Highlights top-performing campaign dates across both platforms (e.g., 19–21, 25–27).  
+> 📅 Consistent activity patterns indicate stable pacing and audience interest.
 
 ---
 
 #### 8. **Ad Type Performance (Matrix Table)**
-| Ad Type | Impressions | Clicks | CTR | Purchase Rate | Conversion Rate | Engagement Rate |
-|----------|-------------|--------|-----|----------------|-----------------|-----------------|
-| Carousel | 48K | 6K | 11.7% | 0.59% | 5.1% | 13.4% |
-| Image | 51K | 6K | 11.7% | 0.57% | 4.9% | 13.5% |
-| Stories | 72K | 8K | 11.8% | 0.65% | 5.2% | 13.6% |
-| Video | 46K | 5K | **11.9%** | **0.62%** | **5.2%** | **13.7%** |
+| Platform | Ad Type | Impressions | Clicks | CTR | Purchase Rate | Conversion Rate | Engagement Rate |
+|-----------|----------|-------------|--------|-----|----------------|-----------------|-----------------|
+| Facebook | Carousel | 48K | 6K | 11.7% | 0.59% | 5.1% | 13.4% |
+| Facebook | Stories | 72K | 8K | 11.8% | 0.65% | 5.2% | 13.6% |
+| Facebook | Video | 46K | 5K | 11.9% | 0.62% | 5.2% | 13.7% |
+| Instagram | Carousel | 12.8K | 1.5K | 11.69% | 0.54% | 13.66% | 4.60% |
+| Instagram | Image | 12.3K | 1.5K | 12.14% | 0.56% | 13.89% | 4.62% |
+| Instagram | Stories | 12.4K | 1.4K | 11.23% | 0.61% | 12.94% | 5.46% |
+| Instagram | Video | 3.3K | 0.4K | 11.88% | 0.66% | 13.71% | 5.56% |
 
-> 🎥 **Video ads** perform the best, followed by **Stories**, while Image and Carousel have moderate conversions.
+> 🎥 **Video ads** lead in performance on both platforms, showing the highest engagement and conversion rates.
 
 ---
 
 ### 💼 Business Impact & Insights
 
 1. **Strong Awareness & Engagement:**  
-   CTR (11.76%) and Engagement Rate (13.56%) indicate top-performing creatives and audience targeting.  
+   CTR (11.76% Facebook, 11.86% Instagram) and Engagement Rate (~13.5%) show that both platforms are delivering excellent top-of-funnel performance.
 
-2. **Weak Conversion Funnel:**  
-   Purchase Rate (0.61%) reveals users drop off after engagement — optimize landing pages and retargeting campaigns.  
+2. **Conversion Opportunity:**  
+   Facebook shows slightly better conversion (5.21%) than Instagram (4.82%), suggesting better retargeting potential on Facebook.
 
 3. **Audience Strategy:**  
-   Focus on **Females aged 18–30**, primarily in **India & Brazil**, for maximum reach and conversion potential.  
+   Target **Females aged 18–30** on both platforms for optimal engagement.
 
 4. **Ad Format Optimization:**  
-   Shift more budget toward **Video & Story** ads — proven highest ROI formats.  
+   Continue focusing on **Video and Stories**, which perform best across platforms.
 
-5. **Timing Optimization:**  
-   Deliver ads during **afternoon and evening hours** to leverage peak activity.  
+5. **Budget Strategy:**  
+   Maintain balanced investment across Facebook and Instagram but allocate a slightly higher share to Facebook for conversion-driven campaigns.
 
 ---
 
@@ -165,9 +187,48 @@ Display overall performance metrics:
 
 ---
 
-## 🖼️ Screenshot of the Dashboard
+## 🖼️ Screenshots of the Dashboards
 
-Below is a visual preview of the **Meta Ad Performance Dashboard** built in Power BI.  
-It highlights all the key KPIs and insights derived from Facebook and Instagram ad campaigns.
+Below are the visual previews of both **Facebook** and **Instagram** ad performance dashboards built in Power BI.  
+Together, they provide a complete view of Meta’s ad ecosystem — tracking KPIs, engagement, and conversions separately for each platform.
 
-![Dashboard Screenshot](https://github.com/janhabi-priyadarshini/Meta-Ads-Performance-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+### 📘 Facebook Dashboard
+![Facebook Dashboard Screenshot](https://github.com/janhabi-priyadarshini/Meta-Ads-Performance-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+
+---
+
+### 📸 Instagram Dashboard
+![Instagram Dashboard Screenshot](https://github.com/janhabi-priyadarshini/Meta-Ads-Performance-Analysis-Dashboard/blob/main/Snapshot%20of%20Instagram%20Dashboard.png )
+
+---
+
+> 💡 *These dashboards together help compare performance between Facebook and Instagram ads — identifying which platform, audience, and ad type delivers the best ROI.*
+
+---
+
+## 🧠 Business Documents Included
+- **Business Requirements Document (BRD):** Defines KPIs, metrics, and visual requirements.  
+- **Domain Knowledge Document:** Explains table design and star schema relationships.  
+- **Dashboard Insights:** Summarizes performance results, key takeaways, and recommendations.  
+- **Project Explanation (Interview):** A step-by-step breakdown for interviews or presentations.  
+
+---
+
+## 🚀 Key Takeaways
+- Facebook slightly outperforms Instagram in conversions.  
+- Video and Story Ads dominate on both platforms.  
+- Females aged 18–30 remain the most engaged audience.  
+- Both dashboards offer unified insight into campaign efficiency and audience behavior.  
+
+---
+
+## 🪄 Future Improvements
+- Integrate real-time campaign data via Meta Ads API  
+- Add ROI, ROAS, and CPC metrics for financial insights  
+- Include user retention and lifetime value (LTV) tracking  
+- Automate data refresh and quality validation via Power BI Gateway  
+
+---
+
+⭐ **If you found this project insightful, don’t forget to star the repository!**  
+📈 *This dashboard demonstrates how data storytelling transforms marketing performance into measurable business strategy.*
